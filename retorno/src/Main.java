@@ -17,7 +17,9 @@ public class Main {
         System.out.println("Área do quadrado: " + area5);
         System.out.println("Área do retângulo: " + area6);
         System.out.println("Área do trapézio: " + area7);
-        System.out.println("Área do losango: " + area8);  
+        System.out.println("Área do losango: " + area8); 
+        System.out.println(Math.ceil(2.5)); 
+
 
     }
 }
